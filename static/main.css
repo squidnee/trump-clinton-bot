@@ -1,0 +1,34 @@
+body {
+	text-align: center;
+	font-family: georgia;
+	color: #444440;
+	font-size: 2.1em;
+	background-color: #bcbbb7;
+}
+
+strong {
+	color: red;
+}
+
+div.about {
+	margin-left: 300px;
+	margin-right: 300px;
+	font-size: 18px;
+}
+
+input#input_bar {
+  font-size: 2.3em;
+  font-family: georgia;
+  width: 50%;
+  text-align: center;
+  color: grey;
+}
+
+input#submit_button {
+  width: 200px;
+  color: grey;
+}
+
+footer {
+	font-size: 10px;
+}
